@@ -20,5 +20,14 @@ namespace StringCalculator.Test
             
             Assert.Equal(1, actual);
         }
+        
+        [Fact]
+        public void ReturnTwoWhenStringIsTwo()
+        {
+            int actual = StringCalc.Add("2");
+            
+            Assert.Equal(2, actual);
+        }
+        
     }
 }
