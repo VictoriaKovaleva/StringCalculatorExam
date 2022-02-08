@@ -12,5 +12,13 @@ namespace StringCalculator.Test
             
             Assert.Equal(0, actual);
         }
+
+        [Fact]
+        public void ReturnOneWhenStringIsOne()
+        {
+            int actual = StringCalc.Add("1");
+            
+            Assert.Equal(1, actual);
+        }
     }
 }

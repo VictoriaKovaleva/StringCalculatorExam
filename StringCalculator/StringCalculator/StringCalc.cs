@@ -2,9 +2,9 @@ namespace StringCalculator
 {
     public class StringCalc
     {
-        public static int Add(string empty)
+        public static int Add(string input)
         {
-            throw new System.NotImplementedException();
+            return 0;
         }
     }
 }
