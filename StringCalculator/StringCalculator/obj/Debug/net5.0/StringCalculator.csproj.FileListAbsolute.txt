@@ -1,0 +1,12 @@
+D:\Users\vkovaleva\source\Exam\StringCalculator\StringCalculator\bin\Debug\net5.0\StringCalculator.deps.json
+D:\Users\vkovaleva\source\Exam\StringCalculator\StringCalculator\bin\Debug\net5.0\StringCalculator.dll
+D:\Users\vkovaleva\source\Exam\StringCalculator\StringCalculator\bin\Debug\net5.0\ref\StringCalculator.dll
+D:\Users\vkovaleva\source\Exam\StringCalculator\StringCalculator\bin\Debug\net5.0\StringCalculator.pdb
+D:\Users\vkovaleva\source\Exam\StringCalculator\StringCalculator\obj\Debug\net5.0\StringCalculator.csproj.AssemblyReference.cache
+D:\Users\vkovaleva\source\Exam\StringCalculator\StringCalculator\obj\Debug\net5.0\StringCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\vkovaleva\source\Exam\StringCalculator\StringCalculator\obj\Debug\net5.0\StringCalculator.AssemblyInfoInputs.cache
+D:\Users\vkovaleva\source\Exam\StringCalculator\StringCalculator\obj\Debug\net5.0\StringCalculator.AssemblyInfo.cs
+D:\Users\vkovaleva\source\Exam\StringCalculator\StringCalculator\obj\Debug\net5.0\StringCalculator.csproj.CoreCompileInputs.cache
+D:\Users\vkovaleva\source\Exam\StringCalculator\StringCalculator\obj\Debug\net5.0\StringCalculator.dll
+D:\Users\vkovaleva\source\Exam\StringCalculator\StringCalculator\obj\Debug\net5.0\ref\StringCalculator.dll
+D:\Users\vkovaleva\source\Exam\StringCalculator\StringCalculator\obj\Debug\net5.0\StringCalculator.pdb
